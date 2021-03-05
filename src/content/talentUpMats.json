@@ -1,0 +1,102 @@
+{
+    "books":[
+        {
+        "name": "Freedom",
+        "id": "1",
+        "days": ["Monday", "Thursday"],
+        "characters": [
+            "Amber",
+            "Barbara",
+            "Diona",
+            "Klee",
+            "Sucrose",
+            "Tartaglia"
+        ]
+        },
+        {
+        "name": "Prosperity",
+        "id": 2,
+        "days": ["Monday", "Thursday"],
+        "characters": ["Keqing", "Ningguang", "Qiqi", "Xiao"]
+        },
+        {
+        "name": "Diligence",
+        "id": 3,
+        "days": ["Tuesday", "Friday"],
+        "characters": ["Chongyun", "Xiangling"]
+        },
+        {
+        "name": "Resistance",
+        "id": 4,
+        "days": ["Tuesday", "Friday"],
+        "characters": ["Bennett", "Diluc", "Jean", "Mona", "Noelle", "Razor"]
+        },
+        {
+        "name": "Ballad",
+        "id": 5,
+        "days": ["Wednesday", "Saturday"],
+        "characters": ["Fischl", "Kaeya", "Lisa", "Venti"]
+        },
+        {
+        "name": "Gold",
+        "id": 6,
+        "days": ["Wednesday", "Saturday"],
+        "characters": ["Beidou", "Xingqiu", "Xinyan", "Zhongli"]
+        }
+    ],
+    "bossMats":[
+        {
+        "name": "Tail of Boreas",
+        "id": 7,
+        "days": ["Andrius"],
+        "characters": ["Qiqi", "Venti", "Xingqiu"]
+        },
+        {
+        "name": "Ring of Boreas",
+        "id": 8,
+        "days": ["Andrius"],
+        "characters": ["Barbara", "Keqing", "Klee", "Mona"]
+        },
+        {
+        "name": "Spirit Locket of Boreas",
+        "id": 9,
+        "days": ["Andrius"],
+        "characters": ["Fischl", "Kaeya", "Ningguang", "Sucrose"]
+        },
+        {
+        "name": "Dvalin's Plume",
+        "id": 10,
+        "days": ["Dvalin"],
+        "characters": ["Bennett", "Diluc", "Jean"]
+        },
+        {
+        "name": "Dvalin's Claw",
+        "id": 11,
+        "days": ["Dvalin"],
+        "characters": ["Lisa", "Noelle", "Razor", "Xiangling"]
+        },
+        {
+        "name": "Dvalin's Sigh",
+        "id": 12,
+        "days": ["Dvalin"],
+        "characters": ["Amber", "Beidou", "Chongyun"]
+        },
+        {
+        "name": "Tusk of Monoceros Caeli",
+        "id": 13,
+        "days": ["Tartaglia"],
+        "characters": ["Xinyan"]
+        },
+        {
+        "name": "Shard of a Foul Legacy",
+        "id": 14,
+        "days": ["Tartaglia"],
+        "characters": ["Diona", "Tartaglia"]
+        },
+        {
+        "name": "Shadow of the Warrior",
+        "id": 15,
+        "days": ["Tartaglia"]
+        }
+    ]
+}
